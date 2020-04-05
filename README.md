@@ -2,7 +2,7 @@
 
 > Este projeto, tem como objetivo, apresentar a estrutura de um web site de um Dev, onde o profissional poderá demonstrar seu portfólio, informações de contato, informações pessoais, skills e graduação.
 
-![Imagens](https://github.com/Rafael-Batista-Dev/site/blob/master/public/react.png)
+![Gif](https://github.com/Rafael-Batista-Dev/site/blob/master/site.gif)
 
 ## Instalação
 
